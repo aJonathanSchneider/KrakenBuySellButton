@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KbsB by Shnyder</string>
+    <string-array name="currency_array">
+        <item>XBT</item>
+        <item>ETH</item>
+        <item>BCH</item>
+    </string-array>
+</resources>
