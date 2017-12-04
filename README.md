@@ -32,5 +32,5 @@ Technical issues: This code might not work, the cloud provider might be down, kr
 Only compile and run this app if you understand the code and are willing to take the risks associated with running it.
 If you redistribute this code, delete your key and secret, set both to null!
 
-# Buy me a coffee
-If you've found this useful, feel free to send a microtransaction to my Ether-account: 0xf8bf4c9b81a208eaaa8d3642c74edde58325358c
+## Buy me a coffee
+_If you've found this useful, feel free to send a microtransaction to this Ether-account: 0xf8bf4c9b81a208eaaa8d3642c74edde58325358c_
