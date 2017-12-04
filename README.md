@@ -2,7 +2,7 @@
 Because Kraken.com was often difficult to access, I wanted to build an app with a simple button for selling and buying at market value.
 This is a quick & dirty prototype built over a weekend, so there's no two-factor authentication. Error handling is done by raw Error output, because there are lots of error sources (the reason why I made this app)
 
-![app-overview](docs/app-overview.png)
+<img src="docs/app-overview.png" alt="app-overview" width="350">
 
 ## Installation:
 - Generate an API key on kraken with access rights to the ledger, the balance and the right to create orders
